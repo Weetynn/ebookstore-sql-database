@@ -30,3 +30,6 @@ The project at hand involves designing and implementing a robust database system
 - Find the average rating for each book.
 - Show the total number of books added to the shopping cart.
 - Show the members who made more than 2 orders.
+
+## 🖇️ Addtional Aspect Covered in the Project
+- Benefits of databases and Database Management System in managing electronic bookstores.
