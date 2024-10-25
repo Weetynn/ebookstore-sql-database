@@ -13,7 +13,7 @@ The project at hand involves designing and implementing a robust database system
 - Member can also provide review for a book, as a rating (1-10 which is 1= terrible, 10= masterpiece) along with optional short text. No changes are allowed; only one review per member per book is allowed.
 
 ## 📈 Diagrams
-                                          Entity Relationship Diagram (Crow’s Foot Notation)
+                                      Entity Relationship Diagram (Crow’s Foot Notation)
 ![Entity Relationship Diagram](https://github.com/user-attachments/assets/1397badc-92df-4620-b47b-becbab40df02)
 
                                                           Database Diagram
